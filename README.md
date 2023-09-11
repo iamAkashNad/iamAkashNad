@@ -1,7 +1,8 @@
-![My Profile Background](https://wallpaperaccess.com/full/8901683.jpg)
+<!-- ![My Profile Background](https://wallpaperaccess.com/full/8901683.jpg) -->
 ### Hi there 👋
 ## I am Akash Nad
-- A MERN Stack Developer✨
+- 💻A MERN Stack Developer✨
+- 🏠I'm from Kolkata
 - 🌱 I’m currently learning
 - 🔭 I’m currently working on! Oh no I am looking for job...
 
