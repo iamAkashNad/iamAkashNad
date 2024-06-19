@@ -5,7 +5,7 @@
 - 💻 A MERN Stack Developer✨
 - 🏠 I'm from Kolkata
 - 🌱 I’m currently learning
-- 🔭 I’m currently working on! Oh no I am looking for job...
+- 🔭 Currently working in IBM
 
 <!--
 **iamAkashNad/iamAkashNad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
